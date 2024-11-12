@@ -1,4 +1,4 @@
-# Experimentation Git & Conda Guide
+# Git & Conda Guide
 
 > There once was a team self-possessed \
 Who needed some code for their tests\
