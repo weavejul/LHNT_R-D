@@ -93,7 +93,7 @@ async def send_data(manager: ConnectionManager):
     while True:
         # Example data - replace with your dynamic data as needed
         vector = [1.0, 2.0, 3.0, 4.0, 5.0, 6.0] #replace with output of CapsNet
-        text = "Hello World"  # Example text data
+        text = "Message Sent"  # Example text data
         # Create the message payload
         message = {
             "vector": vector,
